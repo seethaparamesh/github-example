@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name": "White",
+            "total": 21967,
+            "High School": 21613,
+            "Bachelors": 16043
+        },
+        {
+            "name": "Asian",
+            "total": 5216,
+            "High School": 5058,
+            "Bachelors": 4283
+        },
+        {
+            "name": "Hispanic",
+            "total": 814,
+            "High School": 773,
+            "Bachelors": 589
+        },
+        {
+            "name": "Black",
+            "total": 603,
+            "High School": 588,
+            "Bachelors": 241
+        },
+        {
+            "name": "Multiple Races",
+            "total": 434,
+            "High School": 418,
+            "Bachelors": 322
+        },
+        {
+            "name": "Other Race",
+            "total": 164,
+            "High School": 164,
+            "Bachelors": 104
+        },
+        {
+            "name": "Native American",
+            "total": 46,
+            "High School": 46,
+            "Bachelors": 44
+        },
+        {
+            "name": "Islander",
+            "total": 41,
+            "High School": 41,
+            "Bachelors": 41
+        }
+    ]
+}

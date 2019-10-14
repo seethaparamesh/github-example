@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Overall",
+            "All": 74350,
+            "Male": 98189,
+            "Female": 50018
+        },
+        {
+            "name": "Less Than High School",
+            "All": 47807,
+            "Male": 48904,
+            "Female": 11838
+        },
+        {
+            "name": "High School Grad",
+            "All": 42335,
+            "Male": 52229,
+            "Female": 35476
+        },
+        {
+            "name": "Some College",
+            "All": 43263,
+            "Male": 62012,
+            "Female": 35538
+        },
+        {
+            "name": "Bachelors Degree",
+            "All": 72718,
+            "Male": 94448,
+            "Female": 49872
+        },
+        {
+            "name": "Graduate Degree",
+            "All": 102136,
+            "Male": 128888,
+            "Female": 71394
+        }
+    ]
+}

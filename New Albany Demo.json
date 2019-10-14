@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "name": "White",
+            "total": 5142,
+            "High School": 5074,
+            "Bachelors": 3981
+        },
+        {
+            "name": "Black",
+            "total": 534,
+            "High School": 534,
+            "Bachelors": 268
+        },
+        {
+            "name": "Asian",
+            "total": 489,
+            "High School": 480,
+            "Bachelors": 442
+        },
+        {
+            "name": "Multiple Races",
+            "total": 57,
+            "High School": 57,
+            "Bachelors": 57
+        },
+        {
+            "name": "Hispanic",
+            "total": 51,
+            "High School": 51,
+            "Bachelors": 36
+        },
+        {
+            "name": "Other Race",
+            "total": 36,
+            "High School": 36,
+            "Bachelors": 21
+        },
+        {
+            "name": "Native American",
+            "total": 9,
+            "High School": 9,
+            "Bachelors": 0
+        }
+    ]
+}
